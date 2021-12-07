@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="avg_temp">Average temperature: %s \u00B0C</string>
+    <string name="pressure">Pressure: %s</string>
+    <string name="humidity">Humidity: %s%%</string>
+    <string name="description">Description: %s</string>
+    <string name="date">"Date: %s"</string>
+    <string name="invalid_length">Inputted length not long enough</string>
+    <string name="dialog_error">Error: %s</string>
+    <string name="ok">OK</string>
+</resources>
